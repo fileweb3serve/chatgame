@@ -1,2 +1,2 @@
-# chatgame
+# Chatgame
 Innovative next-generation blockchain games
